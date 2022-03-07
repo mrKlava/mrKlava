@@ -1,1 +1,4 @@
-Test
+# Hello world! I am Mr Klava - aka JabbaScripter
+
+## Few words About Me
+> I will try to be short and straight. I am really motivated person who is not afraid of challenges and unknown. I believe that humane is capable to do everything what he has planned and key for this is – WILL & ACTION. I am interested to develop myself as high standard specialist in IT industry. I started my journey from learning basic web developer tools as HTML5 and CSS3 and JS. Have passed [JetBrains](https://hyperskill.org/tracks) course "Frontend Developer" and almost finished [freeCodeCamp.org](https://www.freecodecamp.org/learn/) "JavaScript Algorithms and Data Structures". At this point I am deeply learning JavaScript and React. **Have experience with: HTML5, CSS3 (Less, Bootstrap, Tailwind), JS (JQuery, VUE, React and other frameworks), Figma, Git.** Feel free to contact me for more information according my skills and experience.
