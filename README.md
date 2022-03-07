@@ -16,23 +16,24 @@
 - :running: Amature runner who made marathon
 - :mount_fuji: Trying to keep active lifestyle with traveling
 
+## Passed courses
+
+- [x] [JetBrains Academy](https://www.jetbrains.com/academy/) - ["Track: Frontend Developer"](https://hyperskill.org/profile/192486091)
+- [ ] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/mrKlava)
+
+
 ## Languages / Tools I have used 
-<p align="center">HTML</p>
 <img align="left" width="45px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
-<p align="center">SCC</p>
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
-<p align="right">JavaScript</p>
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<p align="rigth">Other</p>
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" height="45px" style="padding-right:10px;" src="./img/kisspng-logo-sap-hybris-organization-sap-se-brand-pim-logo-97819-newsmov-5b6d33ec668843.67769289153388337242.png" />
-
