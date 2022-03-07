@@ -17,7 +17,8 @@
 - :mount_fuji: Trying to keep active lifestyle with traveling
 
 ## Languages / Tools I have used 
-- HTML : <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+- HTML : 
+<img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
 <br />
 
@@ -35,7 +36,9 @@
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-- Other tools : &nbsp;&nbsp;
+<br />
+
+- Other tools : 
 <img align="left" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 ![SAP Hybris](./img/kisspng-logo-sap-hybris-organization-sap-se-brand-pim-logo-97819-newsmov-5b6d33ec668843.67769289153388337242.png)
