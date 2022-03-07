@@ -6,7 +6,7 @@
 &nbsp;&nbsp;
 [![mr.klava](./img/icons8-instagram-48.png)](https://www.instagram.com/mr.klava/)
 &nbsp;&nbsp;
-[![mr.klava](./img/icons8-strava-mobile-app-and-website-connect-runners-and-cyclists-48.png)](https://www.strava.com/athletes/mrklava)
+[![mr.klava](./img/icons8-strava-48.png)](https://www.strava.com/athletes/mrklava)
 &nbsp;&nbsp;
 
 ## Few words About Me
