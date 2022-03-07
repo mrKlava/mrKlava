@@ -22,7 +22,7 @@
 - [ ] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/mrKlava)
 
 ### Solving programming problems time to time  
-<img align="center" style="padding-right:10px;" src="https://www.codewars.com/users/mr.klava/badges/large" />
+[![mr.klava](https://www.codewars.com/users/mr.klava/badges/small)](https://www.codewars.com/users/mr.klava)
 
 ## Languages / Tools I have used 
 <img align="left" width="45px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
