@@ -19,7 +19,7 @@
 ## Passed courses
 
 - [x] [JetBrains Academy](https://www.jetbrains.com/academy/) - ["Track: Frontend Developer"](https://hyperskill.org/profile/192486091)
-- [ ] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/mrKlava)
+- [x] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/certification/mrKlava/javascript-algorithms-and-data-structures)
 
 ### Solving programming problems time to time  
 [![mr.klava](https://www.codewars.com/users/mr.klava/badges/small)](https://www.codewars.com/users/mr.klava)
