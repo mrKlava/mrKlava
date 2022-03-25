@@ -13,7 +13,7 @@
 - :anchor: Ex professional seafarer in Oil & Gas industry
 - :computer: Started to learn coding in middle of 2020 as hobby on vacation
 - :book: Now deeply learning Front End Web development
-- :running: Amature runner who made marathon
+- :running: Amature runner who made a marathon
 - :mount_fuji: Trying to keep active lifestyle with traveling
 
 ## Passed courses
