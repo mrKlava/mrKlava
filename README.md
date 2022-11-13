@@ -16,6 +16,9 @@
 - :running: Amature runner who made a marathon
 - :mount_fuji: Trying to keep active lifestyle with traveling
 
+## My Weapons 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrKlava&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+
 ## Passed courses
 
 - [x] [JetBrains Academy](https://www.jetbrains.com/academy/) - ["Track: Frontend Developer"](https://hyperskill.org/profile/192486091)
