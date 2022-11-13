@@ -16,13 +16,13 @@
 - :running: Amature runner who made a marathon
 - :mount_fuji: Trying to keep active lifestyle with traveling
 
-## My Weapons 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrKlava&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrKlava&theme=dark)](https://github.com/mrKlava/github-readme-stats)
 
 ## Passed courses
 
 - [x] [JetBrains Academy](https://www.jetbrains.com/academy/) - ["Track: Frontend Developer"](https://hyperskill.org/profile/192486091)
 - [x] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/certification/mrKlava/javascript-algorithms-and-data-structures)
+- [ ] [HarvardX](https://www.edx.org/school/harvardx) - ["CS50's Introduction to Computer Science"](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### Solving programming problems time to time  
 [![mr.klava](https://www.codewars.com/users/mr.klava/badges/small)](https://www.codewars.com/users/mr.klava)
