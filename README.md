@@ -12,7 +12,7 @@
 ## Few words About Me
 - :anchor: Ex professional seafarer in the Oil & Gas industry
 - :computer: Started to learn coding in the middle of 2020 as a hobby on vacation
-- :book:  Now deeply learning Full Stack Web development
+- :book:  Now deeply learning Full Stack Web and other interesting related development stuff
 - :running: Amature runner who ran a marathon
 - :mount_fuji: Trying to keep an active lifestyle with traveling
 
