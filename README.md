@@ -1,5 +1,4 @@
 # Hello world! I am Mr Klava - aka JabbaScripter
-## Just a regular ambitious guy
 
 [![mr.klava](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/artursklava/)
 &nbsp;&nbsp;
