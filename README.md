@@ -1,4 +1,5 @@
 # Hello world! I am Mr Klava - aka JabbaScripter
+## Just a regular ambitious guy
 
 [![mr.klava](./img/icons8-linkedin-48.png)](https://www.linkedin.com/in/artursklava/)
 &nbsp;&nbsp;
@@ -10,11 +11,11 @@
 &nbsp;&nbsp;
 
 ## Few words About Me
-- :anchor: Ex professional seafarer in Oil & Gas industry
-- :computer: Started to learn coding in middle of 2020 as hobby on vacation
-- :book: Now deeply learning Full Stack Web developmnetn
-- :running: Amature runner who made a marathon
-- :mount_fuji: Trying to keep active lifestyle with traveling
+- :anchor: Ex professional seafarer in the Oil & Gas industry
+- :computer: Started to learn coding in the middle of 2020 as a hobby on vacation
+- :book:  Now deeply learning Full Stack Web development
+- :running: Amature runner who ran a marathon
+- :mount_fuji: Trying to keep an active lifestyle with traveling
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrKlava&theme=dark)](https://github.com/mrKlava/github-readme-stats)
 
@@ -24,7 +25,7 @@
 - [x] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/certification/mrKlava/javascript-algorithms-and-data-structures)
 - [ ] [HarvardX](https://www.edx.org/school/harvardx) - ["CS50's Introduction to Computer Science"](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-### Solving programming problems time to time  
+### Solving programming problems from time to time 
 [![mr.klava](https://www.codewars.com/users/mr.klava/badges/small)](https://www.codewars.com/users/mr.klava)
 
 ## Languages / Tools I have used 
