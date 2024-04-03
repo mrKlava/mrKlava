@@ -23,7 +23,8 @@
 
 - [x] [JetBrains Academy](https://www.jetbrains.com/academy/) - ["Track: Frontend Developer"](https://hyperskill.org/profile/192486091)
 - [x] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/certification/mrKlava/javascript-algorithms-and-data-structures)
-- [x] [HarvardX](https://www.edx.org/school/harvardx) - ["CS50's Introduction to Computer Science"](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [x] [HarvardX](https://www.edx.org/school/harvardx) - ["CS50's Introduction to Computer Science"](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [ ] [HarvardX](https://www.edx.org/school/harvardx) - ["CS50’s Introduction to Artificial Intelligence with Python"](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)
 
 ### Solving programming problems from time to time 
 [![mr.klava](https://www.codewars.com/users/mr.klava/badges/small)](https://www.codewars.com/users/mr.klava)
