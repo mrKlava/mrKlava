@@ -14,7 +14,7 @@
 :anchor: Ex professional seafarer in the Oil & Gas industry
 <br>:computer: Started to learn coding in the middle of 2020 as a hobby on vacation
 <br>:floppy_disk: Working as Fulstack Web Developer in international company
-<br>:book: Constantly learning new things - CS Deegree student
+<br>:book: Constantly learning new things - CS Degree student
 <br>:running: Amature runner who ran a couple of marathons
 <br>:mount_fuji: In Free time trying to keep an active lifestyle with traveling
 
