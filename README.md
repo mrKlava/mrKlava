@@ -41,57 +41,81 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrKlava&theme=dark)](https://github.com/mrKlava/github-readme-stats)
 
-
-
-
 <table>
 <tbody>
 <tr>
-<td><img src="./img/techno/html.svg" alt="Hyper Text Markdown Language" width="45px"/></td>
-<td><img src="./img/techno/c.svg" alt="C Language" width="45px" /></td>
-<td><img src="./img/techno/sass.svg" alt="Sass preprocessor" width="45px"/></td>
-<td><img src="./img/techno/jquery.svg" alt="jQuery" width="45px" /></td>
-<td><img src="./img/techno/apache.svg" alt="Apache" width="45px" /></td>
-<td><img src="./img/techno/sqllite.svg" alt="SQL Lite" width="45px" /></td>
-<td><img src="./img/techno/docker.svg" alt="Docker" width="45px" /></td>
-<td><img src="./img/techno/visualstudiocode.svg" alt="Visual Studio Code" width="45px"/></td>
-<td><img src="./img/techno/figma.svg" alt="Figma" width="45px" /></td>
-</tr>
-<tr>
-<td><img src="./img/techno/css.svg" alt="Cascade Style Sheet" width="45px"/></td>
-<td><img src="./img/techno/cpp.svg" alt="C++ Language" width="45px" /></td>
-<td><img src="./img/techno/less.svg" alt="Less preprocessor" width="45px"/></td>
-<td><img src="./img/techno/react.svg" alt="React Library" width="45px"/></td>
-<td><img src="./img/techno/nginx.svg" alt="Nginx" width="45px" /></td>
-<td><img src="./img/techno/mysql.svg" alt="mySql" width="45px" /></td>
-<td><img src="./img/techno/git.svg" alt="Git versioning" width="45px"/></td>
-<td><img src="./img/techno/visualstudio.svg" alt="Visual Studio" width="45px"/></td>
-<td><img src="./img/techno/notion.svg" alt="Notion" width="45px"/></td>
-</tr>
-<tr>
-<td><img src="./img/techno/js.svg" alt="Java Script" width="45px" /></td>
-<td><img src="./img/techno/python.svg" alt="Python" width="45px" /></td>
-<td><img src="./img/techno/bootstrap.svg" alt="Bootstrap Style library" width="45px"/></td>
-<td><img src="./img/techno/redux.svg" alt="Redux state manager" width="45px"/></td>
-<td><img src="./img/techno/flask.svg" alt="Flask" width="45px" /></td>
-<td><img src="./img/techno/sqlserver.svg" alt="Microsoft SQL Server" width="45px"/></td>
-<td><img src="./img/techno/bash.svg" alt="bash" width="45px" /></td>
-<td><img src="./img/techno/intelij.svg" alt="IntelIJ IDE" width="45px"/></td>
-</tr>
-<tr>
-<td><img src="./img/techno/ts.svg" alt="Type Script" width="45px" /></td>
-<td></td>
-<td></td>
-<td></td>
-<td><img src="./img/techno/nodejs.svg" alt="NodeJS" width="45px" /></td>
-<td><img src="./img/techno/mongodb.svg" alt="MongoDB" width="45px" /></td>
-</tr>
-<tr>
+<td><img src="./img/techno/html.svg" alt="Hyper Text Markdown Language" width="45px"
+/></td>
+<td><img src="./img/techno/css.svg" alt="Cascade Style Sheet" width="45px"
+/></td>
+<td><img src="./img/techno/js.svg" alt="Java Script" width="45px" />
+</td>
+<td><img src="./img/techno/ts.svg" alt="Type Script" width="45px" />
+</td>
 <td><img src="./img/techno/php.svg" alt="PHP" width="45px" /></td>
-<td></td>
-<td></td>
-<td></td>
-<td><img src="./img/techno/express.svg" alt="Express" width="45px" /> </td>
+</tr>
+<tr>
+<td><img src="./img/techno/c.svg" alt="C Language" width="45px" /></td>
+<td><img src="./img/techno/cpp.svg" alt="C++ Language" width="45px" />
+</td>
+<td><img src="./img/techno/python.svg" alt="Python" width="45px" />
+</td>
+</tr>
+<tr>
+<td><img src="./img/techno/sass.svg" alt="Sass preprocessor" width="45px"
+/></td>
+<td><img src="./img/techno/less.svg" alt="Less preprocessor" width="45px"
+/></td>
+<td><img src="./img/techno/bootstrap.svg" alt="Bootstrap Style library" width="45px"
+/></td>
+</tr>
+<tr>
+<td><img src="./img/techno/jquery.svg" alt="jQuery" width="45px" />
+</td>
+<td><img src="./img/techno/react.svg" alt="React Library" width="45px"
+/></td>
+<td><img src="./img/techno/redux.svg" alt="Redux state manager" width="45px"
+/></td>
+</tr>
+<tr>
+<td><img src="./img/techno/apache.svg" alt="Apache" width="45px" />
+</td>
+<td><img src="./img/techno/nginx.svg" alt="Nginx" width="45px" /></td>
+<td><img src="./img/techno/flask.svg" alt="Flask" width="45px" /></td>
+<td><img src="./img/techno/nodejs.svg" alt="NodeJS" width="45px" />
+</td>
+<td><img src="./img/techno/express.svg" alt="Express" width="45px" />
+</td>
+</tr>
+<tr>
+<td><img src="./img/techno/sqllite.svg" alt="SQL Lite" width="45px" />
+</td>
+<td><img src="./img/techno/mysql.svg" alt="mySql" width="45px" /></td>
+<td><img src="./img/techno/sqlserver.svg" alt="Microsoft SQL Server" width="45px"
+/></td>
+<td><img src="./img/techno/mongodb.svg" alt="MongoDB" width="45px" />
+</td>
+</tr>
+<tr>
+<td><img src="./img/techno/docker.svg" alt="Docker" width="45px" />
+</td>
+<td><img src="./img/techno/git.svg" alt="Git versioning" width="45px"
+/></td>
+<td><img src="./img/techno/bash.svg" alt="bash" width="45px" /></td>
+</tr>
+
+<tr>
+<td><img src="./img/techno/visualstudiocode.svg" alt="Visual Studio Code" width="45px"
+/></td>
+<td><img src="./img/techno/visualstudio.svg" alt="Visual Studio" width="45px"
+/></td>
+<td><img src="./img/techno/intelij.svg" alt="IntelIJ IDE" width="45px"
+/></td>
+<td><img src="./img/techno/figma.svg" alt="Figma" width="45px" /></td>
+<td><img src="./img/techno/notion.svg" alt="Notion" width="45px" />
+</td>
 </tr>
 </tbody>
 </table>
+
+<img src="./img/techno/saphybris.png" alt="SAP Hybris" align="left" width="200px" style="padding-right:10px;" /></td>
