@@ -29,7 +29,7 @@
 [x] [JetBrains Academy](https://www.jetbrains.com/academy/) - ["Track: Frontend Developer"](https://hyperskill.org/profile/192486091)
 <br>[x] [freeCodeCamp.org](https://www.freecodecamp.org/learn) - ["JavaScript Algorithms and Data Structures"](https://www.freecodecamp.org/certification/mrKlava/javascript-algorithms-and-data-structures)
 <br>[x] [HarvardX](https://www.edx.org/school/harvardx) - ["CS50's Introduction to Computer Science"](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-<br>[ ] [HarvardX](https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html) - ["Introduction to Cybersecurity"](https://www.credly.com/badges/ed6abbe8-5d99-4365-999b-62aa8df90167/print)
+<br>[ ] [Cisco](https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html) - ["Introduction to Cybersecurity"](https://www.credly.com/badges/ed6abbe8-5d99-4365-999b-62aa8df90167/print)
 
 ### Solving programming problems from time to time 
 
